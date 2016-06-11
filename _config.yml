@@ -1,0 +1,14 @@
+layout_spectrum: 0.9674377
+typography_spectrum: 0.5617021
+color:
+  lightness: 0.5102744
+  brandStrength: 0.6886632
+  saturation: 0.803279
+  rhythmicContrast: 0.7518771
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Tinni
